@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "isbn": "9780743273565",
+      "borrowedBy": null,
+      "dueDate": null
+    }
+  ],
+  "users": [
+    {
+      "id": 1001,
+      "name": "Jane Doe",
+      "email": "jane@example.com"
+    }
+  ]
+}
